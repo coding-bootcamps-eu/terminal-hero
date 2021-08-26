@@ -18,7 +18,7 @@ fi
 
 if [ -d  "anti-hero" ]
 then
-  echo "❌ You did not delete the 'anit-hero' folder"
+  echo "❌ You did not delete the 'anti-hero' folder"
   exit 1
 else
   echo "✅ You deleted the 'anti-hero' folder"
