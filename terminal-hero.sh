@@ -65,4 +65,6 @@ else
   echo "✅ The contents of the 'hero.md' file are correct"
 fi
 
-echo '🎉' $FOLDER 'is a' $HERO_TEXT '🎉'
+echo ""
+echo "🎉" $FOLDER "is a" $HERO_TEXT "🎉"
+echo ""
