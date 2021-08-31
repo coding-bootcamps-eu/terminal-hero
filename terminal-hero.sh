@@ -2,7 +2,7 @@
 
 clear
 echo ""
-echo "Let's see if your are a terminal hero 🦸‍♂️🦸‍♀️"
+echo "Let's see if you are a terminal hero 🦸‍♂️🦸‍♀️"
 echo ""
 
 
